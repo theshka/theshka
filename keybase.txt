@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/theshka
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://theshka.github.io
+  * I am theshka (https://keybase.io/theshka) on keybase.
+  * I have a public key with fingerprint C08E F66D 13E1 EC92 05BE  4450 1147 844F 571E B779
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101aacb25f14cfa6bcdd2fc7d9ddecbcd2f4f660c3fbfaa0f4bc690582fa44803d60a",
+            "fingerprint": "c08ef66d13e1ec9205be44501147844f571eb779",
+            "host": "keybase.io",
+            "key_id": "1147844f571eb779",
+            "kid": "0101aacb25f14cfa6bcdd2fc7d9ddecbcd2f4f660c3fbfaa0f4bc690582fa44803d60a",
+            "uid": "93977c2fc7770cb37f3a14d9a4b80119",
+            "username": "theshka"
+        },
+        "revoke": {
+            "sig_ids": [
+                "994a03f803be7d97353ecb302c9cbb5435fdbeef7c9890e9f44576b4b3f772420f"
+            ]
+        },
+        "service": {
+            "hostname": "theshka.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1444551687,
+    "expire_in": 157680000,
+    "prev": "dbf3dcff910d3bd1ae18df9b3d15c8b6a4d9226b2e86def48ecb042c76c5ae8d",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMJrAnicrZJbaBRXHMY3ms1q6pWiVbHGnAdBsgnnzDkzZ2aD0IfWC0gsokE0spzr
+7ribnXVnNmqDV4q0jwVtvLSSWryhBtQHEdE2YqmiDfhSCo0NBq0VFSOmrSU+eCa2
+D4U+dl6Gc+b7f9/vfHOuT52YqK/5+bMf9xxLjO2tudX/spponzc/1Q14ILeBTDco
+qPGXKkoVRtmCL0EGQAQRY4JbtkZEaOZwIaWlBZWelEqYlaWJdhwosOaaMagJF44H
+bdfSjBAXYulABtJA+6WcqpQrfikytgK6ykxJhBVSwrOgzRUhNkSIUJcQbVOkOKWe
+GcwHYTxh4DgLVYsfmD2zyI7j/Yf+f+aujtt52KNUxPOUQsEx1ZghIj1GuGug49xq
+qCol1qmMOsqrMF9gYHsaVFRXUFBxraGfM8whyGwAnkcYxNqEcGWAKLaxQcLQEp7g
+3CbY1pIrpanwXA8qT5tqqMMJx5pSi1hQg43G2wR2+WLcPC7p3+EtOT/KV/mbvsqV
+IApEUDSf81FUDjMxWrStHOu3KJ792ynL/ZI0/8lMdKlK6AclkEFGKSI/tkbEcNjI
+cWkaqK1lv6KyfqwwbC40T5yjuoyl5BpLobWHoMRcIqaQK7XHsUS2cLnDTHOW5XBL
+uY5Umrjm9JBYgjrCZsqVID7b5lIQRxpOljOepr4Si6oVBbZf+7ajNlFTn6hLTogv
+cKJ+8ox/rvVaMilx+s7Aq2svbw90HEWXWvMn9r87lLwx0tNQe6Dp8vvptiNtnV8+
+SU9JzbzrXz+6eP25dH9v55+ffv3Bg97fd50BdUO53WtXzFL3VzUvm7mk9eEiZ3nf
+8Wmn/FRb7VX3zIvjbw9//n3dnPbMb2cXh3vaG+ctsJsO1/QU1oy1fbeqJTk2sq7Y
+09e/v2ll6y9z8eoLjSs/tJY+TU369daFR8PvHLy3bPPW3aNkcO/zwaHCkStJjF/s
+3HHz3miD89F7zg/1hy+ev5o8dPPjhsdv9dXdP7UxdTA3+au+qRv++mn+N590jPZu
+OlS8MyMoDA5/sfPxH/sa1cmROQunN/sLp2x65jXPnpgduPuwGJ3uDl8D975csA==
+=5zYi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/theshka
+
+==================================================================

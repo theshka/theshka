@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<header class="post-header">
+  <h1 class="post-title">{{ page.title }}</h1>
+</header>
+<div class="contact">
+    <blockquote>
+        <form action="//formspree.io/tyler@heshka.com" method="POST">
+            <label for="name">Name: </label><br>
+            <input type="text" name="name"><br>
+            <br>
+            <label for="email">E-mail:</label><br>
+            <input type="email" name="_replyto"><br>
+            <br>
+            <label for="message">Message:</label><br>
+            <textarea name="message"></textarea>
+            <br>
+            <input type="submit" value="Send">
+        </form>
+    </blockquote>
+
+    {{ content }}
+
+</div>
