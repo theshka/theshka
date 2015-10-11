@@ -7,6 +7,8 @@ layout: default
 <div class="contact">
     <blockquote>
         <form id ="contact-form" action="//formspree.io/tyler@heshka.com" method="POST">
+            <input type="hidden" name="_subject" value="New contact form submission!" />
+            <input type="hidden" name="_next" value="//theshka.github.io/thanks" />
             <label for="name">Name: </label><br>
             <input type="text" name="name"><br>
             <br>
@@ -14,11 +16,9 @@ layout: default
             <input type="email" name="_replyto"><br>
             <br>
             <label for="message">Message:</label><br>
-            <textarea name="message"></textarea>
+            <textarea name="message" rows="10" cols="40"></textarea>
             <br>
             <input type="text" name="_gotcha" style="display:none" />
-            <input type="hidden" name="_subject" value="New contact form submission!" />
-            <input type="hidden" name="_next" value="//theshka.github.io/thanks" />
             <input type="submit" value="Send">
         </form>
     </blockquote>
@@ -41,10 +41,10 @@ layout: default
             }
         },
         messages: {
-            name: "Please specify your name",
+            name: "Please specify your name.",
             _replyto: {
-                required: "We need your email address to contact you",
-                email: "Your email address must be in the format of name@domain.com"
+                required: "We need your email address to contact you!",
+                email: "Your email address must be in the format of name@domain.com!"
             },
             message: "Cat got your tongue?"
         },
