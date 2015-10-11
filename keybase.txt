@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/theshka
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://theshka.github.io
+  * I am theshka (https://keybase.io/theshka) on keybase.
+  * I have a public key with fingerprint C08E F66D 13E1 EC92 05BE  4450 1147 844F 571E B779
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101aacb25f14cfa6bcdd2fc7d9ddecbcd2f4f660c3fbfaa0f4bc690582fa44803d60a",
+            "fingerprint": "c08ef66d13e1ec9205be44501147844f571eb779",
+            "host": "keybase.io",
+            "key_id": "1147844f571eb779",
+            "kid": "0101aacb25f14cfa6bcdd2fc7d9ddecbcd2f4f660c3fbfaa0f4bc690582fa44803d60a",
+            "uid": "93977c2fc7770cb37f3a14d9a4b80119",
+            "username": "theshka"
+        },
+        "service": {
+            "hostname": "theshka.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1444529072,
+    "expire_in": 157680000,
+    "prev": "eead0e9a5e11c5d169538968503bf53b0741c687184fada8e7bf23776c02d33c",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJrSBRRFN61tYeRPSwqkh5TVsQS987rzmyQUFHoHyPIhIT1zr13dgd1
+Z5uZNUvNqDR6Y0TZGmFR0MPCgoKiINOgMJSiolAiKnrTj6LoQY87Vj+Cfnb/XM45
+3/ed7xxO14hBgaxgX9O9DUcDXxuD3R0HUoHiiZ3tNYJh0zVCpEYoZwMfq6DM9aLl
+FhUiAoAAYkwMUTGhTEysGoRS0SSI6pQywiPRlE1VBUQyDRNjYMoGUXWgaKKJZVkD
+ElUBFsKCaSVizEk6VsLjsgRojLMolBhkRBeBYjBZVgCEMtJk2VQQZAZCOifGbddn
+cHMGdtlcy+Y5HkQH7P0D/599pwbkdElHiPh8hAAxJGRKGMpUx7KhcdN+35TLnASu
+ZBztxZkbL8dCXVjgySqLMH+v/iB/A+bGLC+eMn7NlHRszyZ2BS/HPS/pRny6tybp
+41czI/pbKWpYCcp3yRlVzHEtOyFEIEcSz/KloczXKOoAiWGBVScth0UtH6EgVQP8
++X1YFZdkDFPAdKwwCIlCoaorkqarmgIkw1QkAyAZElVDUJNNTLHGkGGKEkIqASKV
+JCL4s61K2Fxb4j5xjGu6ViyBvZTDhLqrV0pDgWBWYHBmhn9kgaxho/6c3ofpQwMN
+9uPxGUPnV59/8aobvwzlnepqrA2+7hjxpn6j28DmB07PaN1btrKo4Ez2nUjbwsUL
+Pi26MXrYRVlvPVovFvYvqM5zvi/Jf7WbtGRteJo+tP9E/vTSinHBcNnhz9e3lVVm
+Nn+t7D82uidnxU1l5ubidOjQ1hJqDr+0fVnfhNDVR7OnNHaXWflbVhUvz807/W78
+84x9cyaFWu/WlTY1PWjZdfwbHPSusDP77Jn7DskOT25fmzmyp2BpG5LGnPsMt6Xv
+64VDfmzdcU3qXdz98GP1l9r1ObcuFHXUjby3PTfWfFJ60hUqQZ0rVxTsfDJvljr2
+7brLven39qRpU3vTm47E2/fcPtj77Celk0EN
+=hkow
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/theshka
+
+==================================================================
+
