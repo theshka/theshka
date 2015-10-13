@@ -4,4 +4,4 @@ title: Thanks
 permalink: /thanks/
 exclude_from_nav: true
 ---
-Your contact submission has been receieved!
+<span class="fa fa-envelope-o"></span> Your contact submission has been receieved!
