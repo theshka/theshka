@@ -63,3 +63,8 @@ This script merges Jason Mayes JS Twitter API, and a Bootstrap quote carousel.
 ![Gloak Productions](/assets/img/gloakproductions.jpg)
 
 Handmande, unique, exquisite! These are one-of-a-kind wood pens, and atomizers. Check out the site for more.
+
+---
+
+### Donate
+If you would like to buy me a beer, I accept [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ZWXF3NN46VCEE&lc=CA&item_name=HESHKA%2eCOM&item_number=PROJECTS&currency_code=CAD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) and [BitCoin](https://www.coinbase.com/theshka). Cheers!

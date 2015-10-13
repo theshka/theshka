@@ -16,7 +16,7 @@ layout: default
                     <label for="name">Name: </label>
                     <input type="text" name="name">
                     <!-- Input: Email -->
-                    <label for="email">E-mail:</label>
+                    <label for="_replyto">E-mail:</label>
                     <input type="email" name="_replyto">
                     <!-- Input: Message -->
                     <label for="message">Message:</label>
@@ -42,6 +42,9 @@ layout: default
                     },
                     message: {
                         required: true
+                    },
+                    _gotcha {
+                        required: false
                     }
                 },
                 messages: {

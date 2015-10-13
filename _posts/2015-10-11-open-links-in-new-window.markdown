@@ -2,7 +2,7 @@
 layout: post
 title:  "[jQuery] Open External Links in a New Window"
 date:   2015-10-11 00:56:54
-categories: javascript jquery snippet
+categories: snippet javascript jquery 
 ---
 
 This snippet will open external links in a new window using jQuery/Javascript
