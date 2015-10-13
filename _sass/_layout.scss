@@ -210,6 +210,12 @@
 .post-content {
     margin-bottom: $spacing-unit;
 
+    img {
+        @include media-query($on-laptop) {
+            width: 100%;
+        }
+    }
+
     h2 {
         font-size: 32px;
 
