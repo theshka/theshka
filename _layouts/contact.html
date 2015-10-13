@@ -21,9 +21,10 @@ layout: default
                     <!-- Input: Message -->
                     <label for="message">Message:</label>
                     <textarea name="message"></textarea><br>
+                    <!-- Input: Spam -->
+                    <input type="text" name="_gotcha" class="ignore" style="display:none" />
                     <!-- Send -->
-                    <input type="text" name="_gotcha" style="display:none" />
-                    <button type="submit" value="Send"><span class="fa fa-send"></span> Send</button>
+                    <input type="submit" value="Send">
                 </form>
             </blockquote>
             <!-- Import jQuery Validate -->
@@ -42,9 +43,6 @@ layout: default
                     },
                     message: {
                         required: true
-                    },
-                    _gotcha: {
-                        required: false
                     }
                 },
                 messages: {
@@ -55,11 +53,12 @@ layout: default
                     },
                     message: " Cat got your tongue?"
                 },
+                ignore: ".ignore",
                 errorPlacement: function(error, element) {
                     error.insertAfter( element.prev() );
                 },
                 submitHandler: function(form) {
-                    $(form).submit();
+                    $('form').unbind().submit();
                 }
             });
             </script>
