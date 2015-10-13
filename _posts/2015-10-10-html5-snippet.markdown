@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[HTML] Basic Page Snippet"
-date:   2015-10-12 00:56:54
-categories: snippet html 
+date:   2015-10-10
+categories: snippet html
 ---
 
 This is a basic `HTML` page snippet.

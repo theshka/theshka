@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to theshka.github.io!"
-date:   2015-10-10 00:56:54
+date:   2015-10-9 
 categories: jekyll
 ---
 

@@ -8,4 +8,5 @@ url: "http://theshka.gitub.io" # the base hostname & protocol for your site
 github_username:  theshka
 
 # Build settings
+timezone: America/Regina
 markdown: kramdown
