@@ -4,6 +4,7 @@ title:  "Welcome to theshka.github.io!"
 date:   2015-10-9
 categories: jekyll
 ---
+I am migrating my static homepage to the github.io domain!
 
 <pre>
 -----BEGIN PGP SIGNED MESSAGE-----

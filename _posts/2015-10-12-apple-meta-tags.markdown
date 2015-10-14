@@ -5,7 +5,7 @@ date:   2015-10-12
 categories: snippet html meta
 ---
 
-Apple Meta Tags
+Use these Apple Meta Tags to tailor your site's meta tags for Apple devices.
 
     <meta name="apple-mobile-web-app-title" content="My App"> <!-- New in iOS6 -->
     <meta name='apple-mobile-web-app-capable' content='yes'>

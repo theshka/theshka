@@ -4,7 +4,7 @@ title:  "[HTML] Social Networking Meta"
 date:   2015-10-13
 categories: snippet html meta
 ---
-Google+, Twitter, and Facebook meta tags.
+Display rich social media posts when someone shares your page on Google+, Twitter, and Facebook.
 
     <!-- Update your html tag to include the itemscope and itemtype attributes. -->
     <html itemscope itemtype="http://schema.org/Article">
