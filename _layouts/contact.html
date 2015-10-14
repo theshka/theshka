@@ -7,6 +7,7 @@ layout: default
 <div class="contact">
     <div class="row">
         <div class="seven columns">
+            <!-- Contact Form-->
             <blockquote>
                 <form id ="contact-form" action="//formspree.io/tyler@heshka.com" method="POST">
                     <!--Endpoint Meta -->
@@ -20,15 +21,19 @@ layout: default
                     <input type="email" name="_replyto">
                     <!-- Input: Message -->
                     <label for="message">Message:</label>
-                    <textarea name="message"></textarea><br>
+                    <textarea id="plaintext" name="message"></textarea><br>
                     <!-- Input: Spam -->
                     <input type="text" name="_gotcha" class="ignore" style="display:none" />
                     <!-- Send -->
                     <input type="submit" value="Send">
                 </form>
+                <p class="small"><sup>*</sup>This form automatically <a href="https://keybase.io/encrypt#theshka">encrypts</a> your message.</p>
             </blockquote>
+
             <!-- Import jQuery Validate -->
             <script src="{{ "/assets/js/jquery.validate.min.js" | prepend: site.baseurl }}"></script>
+            <!-- Import openPGP -->
+            <script src="{{ "/assets/js/openpgp.min.js" | prepend: site.baseurl }}"></script>
             <!-- Validate form -->
             <script>
             $("#contact-form").validate({ // initialize the plugin
@@ -54,19 +59,113 @@ layout: default
                     message: "Cat got your tongue?"
                 },
                 ignore: ".ignore",
-                invalidFocus: false, 
+                invalidFocus: false,
                 errorPlacement: function(error, element) {
                     error.insertAfter( element.prev() );
                 },
                 submitHandler: function(form) {
+                    encrypt();
                     $('form').unbind().submit();
                 }
             });
+            //PGP Encryption Function
+            function encrypt() {
+                if (window.crypto.getRandomValues) {
+                    var plaintext = $('#plaintext').val();
+                    var pub_key = openpgp.key.readArmored($('#pubkey').text());
+                    var pgp_message = openpgp.encryptMessage(pub_key.keys, plaintext);
+                    $('#plaintext').val(pgp_message);
+                } else {
+                    window.alert("Encryption in this browser isn't supported!");
+                    $('#plaintext').val(plaintext);
+                }
+            }
             </script>
         </div>
 
+        <!-- Markdown content -->
         <div class="five columns">
             {{ content }}
+
+            <!-- tHeshka PGP Public Key-->
+            <pre id="pubkey" style="display:none;">
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/theshka
+
+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
+=8kk3
+-----END PGP PUBLIC KEY BLOCK-----
+            </pre>
         </div>
     </div>
 </div>
