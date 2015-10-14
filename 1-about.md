@@ -3,29 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-Skills:
-* Microsoft Windows
-* Mac OSx/Unix/Linux
-* Mobile/iPhone/Adroid
-* HTML5/CSS3
-* JavaScript/jQuery
-* Apache2
-* MYSQL
-* PHP5
-* XML/JSON
-* Photoshop CS5
-* Illustrator CS5
-* Flash CS5
-* Dreamweaver CS5
-* InDesign CS5
-* Acrobat Pro/Distiller
-* QuarkXPress
-* Microsoft Office
-* SEO
-* Social Media
-* Advertising
-* Typography
-* Pre-Press
+
+ *`Microsoft Windows` `Mac OSx/Unix/Linux` `Mobile/iPhone/Adroid` `HTML5/CSS3` `JavaScript/jQuery` `Apache2` `MYSQL` `PHP5` `XML/JSON` `Photoshop CS5` `Illustrator CS5` `Flash CS5` `Dreamweaver CS5` `InDesign CS5` `Acrobat Pro` `QuarkXPress` `Microsoft Office` `SEO` `Social Media` `Advertising` `Typography` `Pre-Press`*
 
 I have little to no formal education in these areas, I have always had a strong passion for arts and design, and a unique eye for styles and colors. My expertise is gained though obscene amounts of research; many, many failures; work as a freelancer; and my previous employment with Transcontinental Media.
 
