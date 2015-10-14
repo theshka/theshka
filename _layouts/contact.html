@@ -25,7 +25,12 @@ layout: default
                     <!-- Input: Spam -->
                     <input type="text" name="_gotcha" class="ignore" style="display:none" />
                     <!-- Send -->
-                    <input type="submit" value="Send">
+                    <script type="text/javascript">
+                        document.write("<input type=\"submit\" value=\"Send\" />");
+                    </script>
+                    <noscript>
+                        <p class="error"><b><i>Please enable JavaScript to continue</i></b><p>
+                    </noscript>
                 </form>
                 <p class="small"><sup>*</sup>This form automatically <a href="https://keybase.io/encrypt#theshka">encrypts</a> your message.</p>
             </blockquote>
