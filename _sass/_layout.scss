@@ -321,3 +321,14 @@
         }
     }
 }
+
+/**
+ * Back To Top
+ */
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display:none;
+}
