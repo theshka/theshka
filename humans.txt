@@ -4,7 +4,7 @@
  ------------------------------------------
 /* TEAM */
 	Main: Tyler Heshka
-	Contact: tyler [at] heshka.com
+	Contact: theshka.github.io/contact
 	GitHub: @theshka
 	From: Toronto, Ontario, Canada
 
