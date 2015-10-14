@@ -7,27 +7,29 @@ categories: snippet html
 
 This is a basic `HTML` page snippet.
 
-    <!DOCTYPE html>
-    <html lang="en">
-        <head>
-            <!-- page meta
-            --------------------------------------->
-            <meta charset="utf-8">
+{% highlight html %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- page meta
+        --------------------------------------->
+        <meta charset="utf-8">
 
-            <!-- page title
-            --------------------------------------->
-            <title>title</title>
+        <!-- page title
+        --------------------------------------->
+        <title>title</title>
 
-            <!-- stylesheets/fonts
-            --------------------------------------->
-            <link rel="stylesheet" href="style.css">
-        </head>
-        <body>
-            <!-- page content
-            --------------------------------------->
+        <!-- stylesheets/fonts
+        --------------------------------------->
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!-- page content
+        --------------------------------------->
 
-            <!-- javascript
-            --------------------------------------->
-            <script src="script.js"></script>
-        </body>
-    </html>
+        <!-- javascript
+        --------------------------------------->
+        <script src="script.js"></script>
+    </body>
+</html>
+{% endhighlight %}
