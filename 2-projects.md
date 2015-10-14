@@ -44,7 +44,7 @@ This PHP class gathers visitor session information, and inserts it in a database
 
 ---
 
-### [#MBP2011](https://mbp2011.org/) `WEBSITE`
+### [#MBP2011](http://mbp2011.org/) `WEBSITE`
 
 ![#MBP2011](/assets/img/mbp2011.jpg)
 
