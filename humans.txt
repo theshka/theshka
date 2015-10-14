@@ -1,0 +1,33 @@
+┌┬┐╦ ╦╔═╗╔═╗╦ ╦╦╔═╔═╗ ┌─┐┬┌┬┐┬ ┬┬ ┬┌┐  ┬┌─┐
+ │ ╠═╣║╣ ╚═╗╠═╣╠╩╗╠═╣ │ ┬│ │ ├─┤│ │├┴┐ ││ │
+ ┴ ╩ ╩╚═╝╚═╝╩ ╩╩ ╩╩ ╩o└─┘┴ ┴ ┴ ┴└─┘└─┘o┴└─┘
+ ------------------------------------------
+/* TEAM */
+	Main: Tyler Heshka
+	Contact: tyler [at] heshka.com
+	GitHub: @theshka
+	From: Toronto, Ontario, Canada
+
+/* THANKS */
+
+	TO THESE DEVELOPERS FOR THEIR OPEN-SOURCE CODE USED IN OPERATING THIS SITE.
+
+	Framework: JEKYLL
+	-http://jekyllrb.com/
+
+	CSS Framework: Skeleton
+	-http://getskeleton.com/
+
+	jQuery Foundation
+	-https://jquery.org/team/
+
+	Shout-out to these other awesome sites:
+	http://humanstxt.org/, https://keybase.io/,
+	https://coinbase.com/, https://css-tricks.com,
+    https://github.com/,
+
+/* SITE */
+	Last update: 2015/10/15
+	Language: English
+	Doctype: HTML5
+	IDE: Git/GitHub, Atom, Terminal, Photoshop
