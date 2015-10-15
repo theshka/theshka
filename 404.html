@@ -9,6 +9,20 @@ permalink: /404.html
 
     <br><hr><br>
 
+    <h3>Pages</h3>
+    <ul class="page-list inline">
+      <li><a class="page-link" href="/">Home</a></li>
+    {% for page in site.pages %}
+    {% unless page.exclude_from_nav %}
+      {% if page.title %}
+      <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+      {% endif %}
+     {%endunless%}
+    {% endfor %}
+    </ul>
+
+    <br><hr><br>
+
     <h3>Categories</h3>
     <ul class="tag-box inline">
         {% assign tags_list = site.categories %}
