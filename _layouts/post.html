@@ -19,13 +19,13 @@ layout: default
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <div class="row social">
         <!-- Twitter -->
-        <a href="http://twitter.com/home?status=" title="Share on Twitter" target="_blank" class="button btn-twitter"><i class="fa fa-twitter"></i> Twitter</a>
+        <a href="http://twitter.com/home?status={{site.url}}{{site.baseurl}}{{page.url}}" title="Share on Twitter" target="_blank" class="button btn-twitter"><i class="fa fa-twitter"></i> Twitter</a>
         <!-- Facebook -->
-        <a href="https://www.facebook.com/sharer/sharer.php?u=" title="Share on Facebook" target="_blank" class="button btn-facebook"><i class="fa fa-facebook"></i> Facebook</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{site.baseurl}}{{page.url}}" title="Share on Facebook" target="_blank" class="button btn-facebook"><i class="fa fa-facebook"></i> Facebook</a>
         <!-- Google+ -->
-        <a href="https://plus.google.com/share?url=" title="Share on Google+" target="_blank" class="button btn-googleplus"><i class="fa fa-google-plus"></i> Google+</a>
+        <a href="https://plus.google.com/share?url={{site.url}}{{site.baseurl}}{{page.url}}" title="Share on Google+" target="_blank" class="button btn-googleplus"><i class="fa fa-google-plus"></i> Google+</a>
         <!-- LinkedIn -->
-        <a href="http://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=" title="Share on LinkedIn" target="_blank" class="button btn-linkedin"><i class="fa fa-linkedin"></i> LinkedIn</a>
+        <a href="http://www.linkedin.com/shareArticle?mini=true&url={{site.url}}{{site.baseurl}}{{page.url}}&title={{site.title}}&summary={{site.description}}" title="Share on LinkedIn" target="_blank" class="button btn-linkedin"><i class="fa fa-linkedin"></i> LinkedIn</a>
     </div>
 
     <hr>
