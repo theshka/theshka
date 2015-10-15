@@ -32,7 +32,7 @@
       <meta content="website" property="og:type">
     {% endif %}
     {% if page.excerpt %}
-      <meta content="{{ page.excerpt }}" property="og:description">
+      <meta content="{{ page.excerpt | strip_html }}" property="og:description">
     {% else %}
       <meta content="{{ site.description }}" property="og:description">
     {% endif %}
@@ -69,7 +69,7 @@
       <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
     {% endif %}
     {% if page.excerpt %}
-      <meta name="twitter:description" content="{{ page.excerpt }}">
+      <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
     {% else %}
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
