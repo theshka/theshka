@@ -2,7 +2,7 @@
 layout: post
 title:  "[jQuery] Open External Links in a New Window"
 date:   2015-10-11
-#image: "/assets/img/x.jpg"
+image: "/assets/img/posts/code.jpg"
 categories: snippet javascript jquery
 ---
 

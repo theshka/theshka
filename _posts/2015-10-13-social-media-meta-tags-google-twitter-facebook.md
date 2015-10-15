@@ -2,7 +2,7 @@
 layout: post
 title:  "[HTML] Social Networking Meta"
 date:   2015-10-13
-#image: "/assets/img/x.jpg"
+image: "/assets/img/posts/code.jpg"
 categories: snippet html meta
 ---
 Display rich social media posts when someone shares your page on Google+, Twitter, and Facebook.

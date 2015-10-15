@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to theshka.github.io!"
 date:   2015-10-9
-#image: "/assets/img/x.jpg"
+image: "/assets/img/posts/code.jpg"
 categories: jekyll
 ---
 I am migrating my static homepage to the github.io domain!

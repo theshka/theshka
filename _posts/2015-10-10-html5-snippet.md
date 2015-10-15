@@ -2,7 +2,7 @@
 layout: post
 title:  "[HTML] Basic Page Snippet"
 date:   2015-10-10
-#image: "/assets/img/x.jpg"
+image: "/assets/img/posts/code.jpg"
 categories: snippet html
 ---
 

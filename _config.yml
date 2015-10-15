@@ -2,7 +2,7 @@
 title: Tyler Heshka
 description: > # this means to ignore newlines until "baseurl:"
   I'm Tyler, an Autodidact Graphic Designer, Web Developer,
-  and Entrepreneur from Canada!
+  and Entrepreneur.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://theshka.github.io" # the base hostname & protocol for your site
 github_username:  theshka
