@@ -44,7 +44,7 @@
       <meta content="{{ site.url }}/about/" property="article:author">
     {% endif %}
     {% if page.image %}
-      <meta content="{{ page.image }}" property="og:image">
+      <meta content="{{ site.url }}{{ site.baseurl }}{{ page.image }}" property="og:image">
     {% else %}
       <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/logo.jpg" property="og:image">
     {% endif %}
@@ -74,7 +74,7 @@
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
     {% if page.image %}
-      <meta name="twitter:image:src" content="{{ page.image }}">
+      <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}{{ page.image }}">
     {% else %}
       <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/logo.jpg">
     {% endif %}
