@@ -2,6 +2,7 @@
 layout: post
 title:  "[HTML] Apple Web-App Meta"
 date:   2015-10-12
+#image: "/assets/img/x.jpg"
 categories: snippet html meta
 ---
 

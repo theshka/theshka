@@ -2,6 +2,7 @@
 layout: post
 title:  "Back To Top Button"
 date:   2015-10-14
+#image: "/assets/img/x.jpg"
 categories: snippet javascript jquery html css
 ---
 This snippet of `HTML`, `CSS`, and `JAVASCRIPT` will create a back-to-top button on your site.
