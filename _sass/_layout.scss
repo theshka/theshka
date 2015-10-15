@@ -111,6 +111,10 @@
     list-style: none;
     margin-left: 0;
     text-align: center;
+
+    @include media-query($on-palm) {
+        text-align: left;
+    }
 }
 
 .footer-col-wrapper {
