@@ -30,7 +30,7 @@ This email relay script is used with WiiScale, IFTTT, to use a WiiFit Balance bo
 
 ---
 
-### [In the Light Creations: GOD-PILOT](https://god-pilot.com/) `WEBSITE`
+### [In the Light Creations](https://god-pilot.com/) `WEBSITE`
 
 ![GOD-PILOT](/assets/img/godpilot.jpg)
 
