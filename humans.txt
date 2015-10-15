@@ -2,32 +2,35 @@
  │ ╠═╣║╣ ╚═╗╠═╣╠╩╗╠═╣ │ ┬│ │ ├─┤│ │├┴┐ ││ │
  ┴ ╩ ╩╚═╝╚═╝╩ ╩╩ ╩╩ ╩o└─┘┴ ┴ ┴ ┴└─┘└─┘o┴└─┘
  ------------------------------------------
-/* TEAM */
-	Main: Tyler Heshka
-	Contact: theshka.github.io/contact
-	GitHub: @theshka
-	From: Toronto, Ontario, Canada
+ /* TEAM */
 
-/* THANKS */
+     Main: Tyler Heshka
+     Contact: theshka.github.io/contact
+     GitHub: @theshka
+     From: Toronto, Ontario, Canada
 
-	TO THESE DEVELOPERS FOR THEIR OPEN-SOURCE CODE USED IN OPERATING THIS SITE.
+ /* THANKS */
 
-	Framework: JEKYLL
-	-http://jekyllrb.com/
+     TO THESE DEVELOPERS FOR THEIR OPEN-SOURCE CODE USED IN OPERATING THIS SITE.
 
-	CSS Framework: Skeleton
-	-http://getskeleton.com/
+     Framework: JEKYLL
+     -http://jekyllrb.com/
 
-	jQuery Foundation
-	-https://jquery.org/team/
+     CSS Framework: Skeleton
+     -http://getskeleton.com/
 
-	Shout-out to these other awesome sites:
-	http://humanstxt.org/, https://keybase.io/,
-	https://coinbase.com/, https://css-tricks.com,
-    https://github.com/,
+     jQuery Foundation
+     -https://jquery.org/team/
 
-/* SITE */
-	Last update: 2015/10/15
-	Language: English
-	Doctype: HTML5
-	IDE: Git/GitHub, Atom, Terminal, Photoshop
+     Shout-out to these other awesome sites:
+     http://humanstxt.org/, https://keybase.io/,
+     https://coinbase.com/, https://css-tricks.com,
+     https://github.com/, http://jqueryvalidation.org,
+     http://openpgpjs.org,
+
+ /* SITE */
+ 
+     Last update: 2015/10/15
+     Language: English
+     Doctype: HTML5
+     IDE: Git/GitHub, Atom, Terminal, Photoshop

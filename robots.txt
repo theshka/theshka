@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /_drafts/
+Disallow: /_includes/
+Disallow: /_posts/
+Disallow: /_sass/
+Disallow: /_config.yml
+Disallow: /.git/
