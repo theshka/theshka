@@ -268,6 +268,27 @@
 /**
  * Project
  */
+.about {
+    .about-image {
+        @include media-query($on-palm) {
+            text-align: center;
+        }
+    }
+    img {
+        @include media-query($on-palm) {
+            margin-top: 2em;
+            margin-bottom: -1em;
+            border-radius: 50%;
+            overflow: hidden;
+            width: 250px;
+            height: 300px;
+        }
+    }
+}
+
+/**
+ * Project
+ */
 .project-header {
     margin-bottom: $spacing-unit;
 }
