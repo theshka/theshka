@@ -7,7 +7,7 @@ theshka.github.io
 
 ## Technology
 * Framework
-    -Jekyll
+    - Jekyll
 * CSS frameworks
     - skeleton.css
 * Icons
