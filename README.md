@@ -13,7 +13,7 @@ theshka.github.io
 * Icons
     - font-awesome
     - glyphicons
-* JS frameworks, e.g. jQuery
+* JS frameworks
     - jQuery
     - jQuery Validate
     - OpenPGP
