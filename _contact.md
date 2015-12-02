@@ -1,7 +1,6 @@
 ---
 layout: contact
 title: Contact
-permalink: /contact/
 ---
 &nbsp; ... I'm also on these sites:
 
